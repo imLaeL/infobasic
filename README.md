@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight: bold;">VisualizeLab 📊</h1>
+<h1 align="center" style="font-weight: bold;">InfoBasic 🖥️</h1>
 
 <p align="center">
  <a href="#tech">Tecnologias/Technologies</a> • 
